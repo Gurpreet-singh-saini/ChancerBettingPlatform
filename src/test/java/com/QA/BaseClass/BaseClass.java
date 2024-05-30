@@ -128,7 +128,7 @@ public class BaseClass implements DataProviders {
 
 					protected PasswordAuthentication getPasswordAuthentication() {
 
-					return new PasswordAuthentication("gurpreet.singh01@antiersolutions.com", "G@Gurpreet42#");
+					return new PasswordAuthentication("gurpreet.singh01@antiersolutions.com", "Password");
 
 					}
 
