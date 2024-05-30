@@ -1,0 +1,11 @@
+com\QA\Utilities\ReadExcelFile.class
+com\QA\PageObject\UserLoginPageObject.class
+com\QA\TestCases\UserLoginTC.class
+com\QA\Utilities\ReadConfig.class
+com\QA\Utilities\ExtentListenerClass.class
+com\QA\PageObject\JoinTheCommunityPageObject.class
+com\QA\TestCases\VerifyEmailAddressTC.class
+com\QA\Utilities\DataProviders.class
+com\QA\TestCases\JoinTheCommunityTC.class
+com\QA\BaseClass\BaseClass$1.class
+com\QA\BaseClass\BaseClass.class
