@@ -28,8 +28,8 @@ public class VerifyEmailAddressTC extends BaseClass {
 	public void VerifyUserEmailAddressProcessTC(String UserEmailAddress, String UserPassword, String UserName, String UserDOB)
 			throws InterruptedException, IOException, MailosaurException, ParseException {
 		String apiKey = "FdwLCia2bdaeMDQQhXKUHUbU6YwZFqTc";
-		String serverId = "dz7r9pwf";
-		String serverDomain = "dz7r9pwf.mailosaur.net";
+		String serverId = "gsdhffoz";
+		String serverDomain = "gsdhffoz.mailosaur.net";
 		String From = "support@chancer.com";
 
 		MailosaurClient mailosaur = new MailosaurClient(apiKey);
